@@ -1,0 +1,14 @@
+{
+  "name": "my_plugin_name",
+  "version": "0.0.0",
+  "description": "test plugin",
+  "main": "index.js",
+  "kibana": {
+    "version": "6.5.1",
+    "templateVersion": "1.0.0"
+  },
+  "build": {
+    "git": {},
+    "date": "Sat Jan 26 2019 23:45:38 GMT+0530 (India Standard Time)"
+  }
+}
